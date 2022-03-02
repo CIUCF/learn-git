@@ -9,7 +9,7 @@ This project will consist of three separate mini-projects to get you comfortable
 
 In the first mini-project, you'll be Imitiating the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
-In the second mini-project, you'll be Imitiating the steps you'll take with nearly every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then push those changes up to your GitHub.
+In the second mini-project, you'll be Imitiating the steps you'll take with nearly every CIUCF project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then push those changes up to your GitHub.
 
 Finally, in the last mini-project you'll be Imitiating the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
 
@@ -116,19 +116,19 @@ In this step, we will push code to GitHub.
     This tells your computer: 'Hey, the next time code is pushed to GitHub, take all of this code with it.' The message also specifies what GitHub will display in relation to this commit.
 
     </details>
-* Run `git push origin master`
+* Run `git push origin main`
   * <details>
 
     <summary> What does this do? </summary>
 
     <br />
 
-    Your code is now pushed to GitHub. Be sure to include `origin master`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.
+    Your code is now pushed to GitHub. Be sure to include `origin main`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.
 
     </details>
 * Go to your repository on GitHub and see your updates.
 
-## Mini-Project 2: DevMountain Project
+## Mini-Project 2: CIUCF Project
 
 ## Step 1
 
