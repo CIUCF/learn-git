@@ -59,11 +59,11 @@ In this step we will setup the origin for the repository. We'll do this by conne
 
     <br />
 
-    Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." Now whenever you run `git push origin master` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there.
+    Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." Now whenever you run `git push origin main` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there.
 
     <br />
 
-    ( If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push. ) 
+    ( If you accidentally DID initialize your repository with a README, you must do a `git pull origin main` first - to get the README file on your computer - before you'll be able to push. ) 
 
     </details>
 
